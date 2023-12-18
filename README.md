@@ -13,6 +13,6 @@ courses date analysis
 | Research of apartment sale ads  | Исследование объявлений о продаже квартир  |   |
 | Streamchik Online Store  | Выявление закономерностей, определяющих успешность компьютерных игр для интернет-магазина "Стримчик"  |   |
 |The market of public catering establishments in Moscow | Исследование заведений общественного питания Москвы  |   |
-|  1_advanced_sql_project | Решение задач  |   |
+|  1_advanced_sql_project | Решение задач  |  https://github.com/RassvetalovaElena/DA_Yandex/tree/main/1_advanced_sql_project |
 |  2_advanced_sql_project |  Решение задач |  https://github.com/RassvetalovaElena/DA_Yandex/tree/main/2_advanced_sql_project |
 |  Tableau | Построение дашбордов TED-конференций  |   |
