@@ -6,7 +6,7 @@ courses date analysis
 
 | Название проекта |  Краткое описание | Расположение  |
 | ------------ | ------------ | ------------ |
-| Analysis of the behavior of users of a mobile application selling food  |  Анализ поведения пользователей мобильного приложения продающего продукты питания. |   |
+| Analysis of the behavior of users of a mobile application selling food  |  Анализ поведения пользователей мобильного приложения продающего продукты питания. | https://github.com/RassvetalovaElena/DA_Yandex/tree/main/Analysis%20of%20the%20behavior%20of%20users%20of%20a%20mobile%20application%20selling%20food  |
 |  Prioritization of hypotheses, launch and analysis of AB-test results |  Приоритизация гипотез, запуск и анализ результатов A/B-тестов. |   |
 | Procrastinate Pro+  | Выявление причин убытков и помощь компании развлекательного приложения Procrastinate Pro+ выйти в плюс  |   |
 |Rent Go Fast scooters   |  Проверка гипотез на аренде самокатов GoFast |   |
