@@ -4,11 +4,11 @@ courses date analysis
 **Исследование TED-конференций с помощью Tableau**
 
 Описание данных
-tableau_project_data_1.csv
-tableau_project_data_2.csv
-tableau_project_data_3.csv
-tableau_project_event_dict.csv
-tableau_project_speakers_dict.csv
+- tableau_project_data_1.csv
+- tableau_project_data_2.csv
+- tableau_project_data_3.csv
+- tableau_project_event_dict.csv
+- tableau_project_speakers_dict.csv
 Файлы tableau_project_data_1.csv, tableau_project_data_2.csv, tableau_project_data_3.csv хранят данные выступлений. У них одинаковая структура:
 talk_id — идентификатор выступления;
 url — ссылка на запись выступления;
